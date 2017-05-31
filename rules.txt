@@ -1,0 +1,39 @@
+##CONLANG-NOMIC RULES, VERSION 1.0
+     SECTION 1: INITIAL RULESET
+          101. BASIC RULES
+               101.1. ##conlang-nomic is a game involving two or more players, that is played over the Internet.
+               101.2. The object of the game is to win the game.
+               101.3. This game may require the following implements: a brain, a computer, and dice.
+               101.4. Being a dick is grounds for disqualification.
+               101.5. Rule 101 may not be modified or removed.
+          103. VERSIONING
+               103.1. The major version number of this rulebook shall be incremented each time a new rule is added to it.
+               103.2. The minor version number of this rulebook shall be incremented each time an existing rule is amended, and reset to zero each time the major version number is incremented.
+          104. VICTORY AND DEFEAT
+               104.1. A player wins the game when they have accumulated one hundred (100) victory points.
+               104.2. When a player wins the game, all other players lose the game.
+               104.3. A player loses the game when they have accumulated negative one hundred (-100) victory points.
+               104.4. A player who is disqualified loses the game.
+               104.5. A player may concede the game at any time.
+          105. TURN ORDER
+               106.1. Players shall proceed in alphabetical order by nick, with new players appended to the end of the turn order in their first turn cycle.
+     SECTION 2: MODIFYING THIS RULEBOOK
+          201. ON ITEMS
+               201.1. An item is a document that proposes a modification of this rulebook.
+               201.2. Each player may propose one new rule per turn.
+               201.3. Each player may propose one amendment to an existing rule per turn.
+               201.4. New rules, where they do not require amendment of an existing rule, will be appended to the end of the relevant section, rule, or subrule.
+               201.5. To be considered valid, an item must be proposed in the form of an addition to this rulebook.
+          202. DEBATE
+               202.1. Each item proposed under Rule 201 shall be open to debate for one turn cycle, during which time each player shall have, in turn, the opportunity to speak at least once.
+          203. VOTING
+               203.1. After debate on an item has closed, it shall be voted on by the players.
+               203.2. Each player receives one vote.
+               203.3. Each player may vote CONTENT, NOT CONTENT, or ABSTAIN.
+               203.4. For an item to pass, it must receive votes of CONTENT from a majority of players who voted.
+     SECTION 3: SCORING
+          301. VICTORY POINTS
+               301.1. Victory points, or VP, enumerate the progress that a player has made toward victory or defeat. See Rule 104, “Victory and Defeat”.
+               301.2. Non-integer quantities of victory points shall be represented by mixed numbers (for example, 54¾ VP).
+               301.3. The authors of a new rule that is successfully added to this rulebook shall split 10 victory points.
+               301.4. The authors of an amendment to an existing rule, that is successfully added to this rulebook, shall split 5 victory points.
