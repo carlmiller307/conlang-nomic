@@ -34,7 +34,7 @@
                203.4. For an item to pass, it must receive votes of CONTENT from a majority of players who voted.
      SECTION 3: SCORING
           301. VICTORY POINTS
-               301.1. Victory points, or VP, enumerate the progress that a player has made toward victory or defeat. See Rule 104, “Victory and Defeat”.
+               301.1. Victory points, or VP, enumerate the progress that a player has made toward victory or defeat. See Rule 103, “Victory and Defeat”.
                301.2. Non-integer quantities of victory points shall be represented by mixed numbers (for example, 54¾ VP).
                301.3. The authors of a new rule that is successfully added to this rulebook shall split 10 victory points.
                301.4. The authors of an amendment to an existing rule, that is successfully added to this rulebook, shall split 5 victory points.
